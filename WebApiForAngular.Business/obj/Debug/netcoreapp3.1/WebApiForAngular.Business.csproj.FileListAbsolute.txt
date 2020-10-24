@@ -1,0 +1,14 @@
+F:\VisualStudio\source\WebApiForAngular\WebApiForAngular.Business\bin\Debug\netcoreapp3.1\WebApiForAngular.Business.deps.json
+F:\VisualStudio\source\WebApiForAngular\WebApiForAngular.Business\bin\Debug\netcoreapp3.1\WebApiForAngular.Business.dll
+F:\VisualStudio\source\WebApiForAngular\WebApiForAngular.Business\obj\Debug\netcoreapp3.1\WebApiForAngular.Business.AssemblyInfoInputs.cache
+F:\VisualStudio\source\WebApiForAngular\WebApiForAngular.Business\obj\Debug\netcoreapp3.1\WebApiForAngular.Business.AssemblyInfo.cs
+F:\VisualStudio\source\WebApiForAngular\WebApiForAngular.Business\bin\Debug\netcoreapp3.1\WebApiForAngular.Business.pdb
+F:\VisualStudio\source\WebApiForAngular\WebApiForAngular.Business\obj\Debug\netcoreapp3.1\WebApiForAngular.Business.csprojAssemblyReference.cache
+F:\VisualStudio\source\WebApiForAngular\WebApiForAngular.Business\obj\Debug\netcoreapp3.1\WebApiForAngular.Business.csproj.CoreCompileInputs.cache
+F:\VisualStudio\source\WebApiForAngular\WebApiForAngular.Business\obj\Debug\netcoreapp3.1\WebApiForAngular.Business.dll
+F:\VisualStudio\source\WebApiForAngular\WebApiForAngular.Business\obj\Debug\netcoreapp3.1\WebApiForAngular.Business.pdb
+F:\VisualStudio\source\WebApiForAngular\WebApiForAngular.Business\bin\Debug\netcoreapp3.1\WebApiForAngular.DataAccess.dll
+F:\VisualStudio\source\WebApiForAngular\WebApiForAngular.Business\bin\Debug\netcoreapp3.1\WebApiForAngular.Entity.dll
+F:\VisualStudio\source\WebApiForAngular\WebApiForAngular.Business\bin\Debug\netcoreapp3.1\WebApiForAngular.DataAccess.pdb
+F:\VisualStudio\source\WebApiForAngular\WebApiForAngular.Business\bin\Debug\netcoreapp3.1\WebApiForAngular.Entity.pdb
+F:\VisualStudio\source\WebApiForAngular\WebApiForAngular.Business\obj\Debug\netcoreapp3.1\WebApiForAngular.Business.csproj.CopyComplete

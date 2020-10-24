@@ -1,0 +1,9 @@
+F:\VisualStudio\source\WebApiForAngular\WebApiForAngular.Entity\bin\Debug\netcoreapp3.1\WebApiForAngular.Entity.deps.json
+F:\VisualStudio\source\WebApiForAngular\WebApiForAngular.Entity\bin\Debug\netcoreapp3.1\WebApiForAngular.Entity.dll
+F:\VisualStudio\source\WebApiForAngular\WebApiForAngular.Entity\bin\Debug\netcoreapp3.1\WebApiForAngular.Entity.pdb
+F:\VisualStudio\source\WebApiForAngular\WebApiForAngular.Entity\obj\Debug\netcoreapp3.1\WebApiForAngular.Entity.csprojAssemblyReference.cache
+F:\VisualStudio\source\WebApiForAngular\WebApiForAngular.Entity\obj\Debug\netcoreapp3.1\WebApiForAngular.Entity.AssemblyInfoInputs.cache
+F:\VisualStudio\source\WebApiForAngular\WebApiForAngular.Entity\obj\Debug\netcoreapp3.1\WebApiForAngular.Entity.AssemblyInfo.cs
+F:\VisualStudio\source\WebApiForAngular\WebApiForAngular.Entity\obj\Debug\netcoreapp3.1\WebApiForAngular.Entity.csproj.CoreCompileInputs.cache
+F:\VisualStudio\source\WebApiForAngular\WebApiForAngular.Entity\obj\Debug\netcoreapp3.1\WebApiForAngular.Entity.dll
+F:\VisualStudio\source\WebApiForAngular\WebApiForAngular.Entity\obj\Debug\netcoreapp3.1\WebApiForAngular.Entity.pdb

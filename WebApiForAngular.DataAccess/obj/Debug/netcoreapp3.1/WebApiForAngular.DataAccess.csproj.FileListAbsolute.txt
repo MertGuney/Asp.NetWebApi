@@ -1,0 +1,15 @@
+F:\VisualStudio\source\WebApiForAngular\WebApiForAngular.DataAccess\bin\Debug\netcoreapp3.1\WebApiForAngular.DataAccess.deps.json
+F:\VisualStudio\source\WebApiForAngular\WebApiForAngular.DataAccess\bin\Debug\netcoreapp3.1\WebApiForAngular.DataAccess.dll
+F:\VisualStudio\source\WebApiForAngular\WebApiForAngular.DataAccess\obj\Debug\netcoreapp3.1\WebApiForAngular.DataAccess.AssemblyInfoInputs.cache
+F:\VisualStudio\source\WebApiForAngular\WebApiForAngular.DataAccess\obj\Debug\netcoreapp3.1\WebApiForAngular.DataAccess.AssemblyInfo.cs
+F:\VisualStudio\source\WebApiForAngular\WebApiForAngular.DataAccess\obj\Debug\netcoreapp3.1\WebApiForAngular.DataAccess.csprojAssemblyReference.cache
+F:\VisualStudio\source\WebApiForAngular\WebApiForAngular.DataAccess\bin\Debug\netcoreapp3.1\WebApiForAngular.DataAccess.runtimeconfig.json
+F:\VisualStudio\source\WebApiForAngular\WebApiForAngular.DataAccess\bin\Debug\netcoreapp3.1\WebApiForAngular.DataAccess.runtimeconfig.dev.json
+F:\VisualStudio\source\WebApiForAngular\WebApiForAngular.DataAccess\obj\Debug\netcoreapp3.1\WebApiForAngular.DataAccess.genruntimeconfig.cache
+F:\VisualStudio\source\WebApiForAngular\WebApiForAngular.DataAccess\bin\Debug\netcoreapp3.1\WebApiForAngular.DataAccess.pdb
+F:\VisualStudio\source\WebApiForAngular\WebApiForAngular.DataAccess\bin\Debug\netcoreapp3.1\WebApiForAngular.Entity.dll
+F:\VisualStudio\source\WebApiForAngular\WebApiForAngular.DataAccess\bin\Debug\netcoreapp3.1\WebApiForAngular.Entity.pdb
+F:\VisualStudio\source\WebApiForAngular\WebApiForAngular.DataAccess\obj\Debug\netcoreapp3.1\WebApiForAngular.DataAccess.csproj.CoreCompileInputs.cache
+F:\VisualStudio\source\WebApiForAngular\WebApiForAngular.DataAccess\obj\Debug\netcoreapp3.1\WebApiForAngular.DataAccess.csproj.CopyComplete
+F:\VisualStudio\source\WebApiForAngular\WebApiForAngular.DataAccess\obj\Debug\netcoreapp3.1\WebApiForAngular.DataAccess.dll
+F:\VisualStudio\source\WebApiForAngular\WebApiForAngular.DataAccess\obj\Debug\netcoreapp3.1\WebApiForAngular.DataAccess.pdb
